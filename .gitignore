@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# C# / Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - remove if you want to include data)
+# *.csv
+# *.xlsx
